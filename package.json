@@ -1,0 +1,12 @@
+{
+  "name": "gold-pro-line-bot",
+  "version": "2.0.0",
+  "description": "GOLD PRO TradingView → LINE Messaging API Bot",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node --watch server.js"
+  },
+  "dependencies": {},
+  "engines": { "node": ">=18.0.0" }
+}
